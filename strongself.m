@@ -7,5 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-
 __strong __typeof(<#weakSelf#>)strongSelf = <#weakSelf#>;
