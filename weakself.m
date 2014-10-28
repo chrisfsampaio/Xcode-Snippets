@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: 0C210653-5F39-4F80-94F5-F315F4F694DA
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 __weak typeof(self)weakSelf = self;
